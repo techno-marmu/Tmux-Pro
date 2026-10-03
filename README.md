@@ -1,12 +1,13 @@
 # Tmux-Pro
 ## Dev By MarMu
 
-### Architecture ###
+```text
+** Architecture **
 
 Tmux-Pro/
 ├── install.sh                  ← Entry point
 ├── uninstall.sh                ← Uninstaller
-├── main-setup.sh               ← v4.0 Final ⭐
+├── main-setup.sh               ← v3.0 ⭐
 ├── requirements.sh             ← Dependencies
 ├── LICENSE                     ← MIT
 ├── README.md                   ← Bilingual (Linux & Termux)
@@ -33,3 +34,4 @@ Tmux-Pro/
 └── docs/
     └── screenshots/
 
+```
